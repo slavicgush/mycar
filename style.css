@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    background: darkgrey ;
+    overflow: hidden ;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+#myCanvas{
+  background-color: black;
+}
